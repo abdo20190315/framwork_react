@@ -19,7 +19,7 @@ export default function About() {
         {/* STAR LINE */}
         <div className="d-flex align-items-center gap-3 mb-3">
           <div style={{ width: "80px", height: "4px", background: "white" }}></div>
-          <i class="fa-solid fa-star fs-4"></i>
+          <i className="fa-solid fa-star fs-4"></i>
           <div style={{ width: "80px", height: "4px", background: "white" }}></div>
         </div>
 

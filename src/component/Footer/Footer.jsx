@@ -20,10 +20,10 @@ export default function Footer() {
 
             <div className="d-flex justify-content-center gap-3 fs-4">
 
-              <i class="fa-brands fa-facebook"></i>
-              <i class="fa-brands fa-instagram"></i>
-              <i class="fa-brands fa-twitter"></i>
-              <i class="fa-brands fa-linkedin-in"></i>
+              <i className="fa-brands fa-facebook"></i>
+              <i className="fa-brands fa-instagram"></i>
+              <i className="fa-brands fa-twitter"></i>
+              <i className="fa-brands fa-linkedin-in"></i>
 
             </div>
           </div>

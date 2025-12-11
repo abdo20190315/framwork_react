@@ -12,7 +12,7 @@ export default function Contact() {
         {/* STAR LINE */}
         <div className="d-flex justify-content-center align-items-center gap-3 mt-3">
           <div style={{ width: "80px", height: "4px", background: "#2c3e50" }}></div>
-         <i class="fa-solid fa-star fs-4"></i>
+         <i className="fa-solid fa-star fs-4"></i>
           <div style={{ width: "80px", height: "4px", background: "#2c3e50" }}></div>
         </div>
       </div>
