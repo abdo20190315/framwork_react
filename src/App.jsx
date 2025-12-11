@@ -23,10 +23,8 @@ let x = createBrowserRouter(
         { path: 'contact', element: <Contact /> },
       ],
     },
-  ],
-  {
-    basename: "/react_assign"
-  }
+  ]
+  
 );
 
 
