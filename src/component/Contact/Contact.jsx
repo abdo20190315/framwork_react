@@ -6,7 +6,7 @@ export default function Contact() {
    <section className="container py-5">
 
       {/* TITLE */}
-      <div className="text-center my-4">
+      <div className="text-center my-4 pt-5">
         <h2 className="text-uppercase fw-bold fs-1">Contact Section</h2>
 
         {/* STAR LINE */}

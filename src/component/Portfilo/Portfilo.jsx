@@ -27,7 +27,7 @@ export default function Portfilo() {
         }}
       >
          <div >
-     <div className="text-center my-4">
+     <div className="text-center my-4 pt-5">
         <h2 className="text-uppercase fw-bold fs-1">portfolio component</h2>
 
         {/* STAR LINE */}

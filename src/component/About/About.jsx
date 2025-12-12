@@ -13,7 +13,7 @@ export default function About() {
        
   
         {/* TITLE */}
-        <h2 className="fw-bold fs-1 text-uppercase mb-3">
+        <h2 className="fw-bold fs-1 text-uppercase mb-3 ">
          about component</h2>
        
         {/* STAR LINE */}
